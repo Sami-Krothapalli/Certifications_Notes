@@ -1,0 +1,12 @@
+{
+  "pinned": [
+    "obsidian-git:commit",
+    "obsidian-git:commit-staged-specified-message",
+    "obsidian-git:commit-staged",
+    "obsidian-git:pull",
+    "obsidian-git:create-branch",
+    "obsidian-git:switch-branch",
+    "obsidian-git:delete-branch",
+    "obsidian-git:push2"
+  ]
+}
