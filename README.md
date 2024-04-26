@@ -4,8 +4,9 @@ Welcome to my Certifications repository! This space serves as a comprehensive ar
 
 ## Repository Structure
 
-- `/certificates` - Contains scanned copies or digital badges of my certifications.
-- `/notes` - Houses my personal study notes, organized by certification subject.
+- `/certificates` - Contains scanned copies and notes or digital badges of my certifications.
+- `/Books` - Contains copy of books as well as notes for books
+	- `/notes` - Houses my personal study notes, organized by book.
 - `/resources` - A collection of resources such as books, articles, and reference material that supported my studies.
 
 ## Certifications
@@ -15,7 +16,7 @@ The certifications included in this repository are from diverse areas of experti
 - **Data Science**
 - **Machine Learning**
 - **Cloud Computing**
-- **Project Management**
+- **Web Development**
 
 Each certification directory includes:
 
