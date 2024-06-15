@@ -33,11 +33,9 @@
             "id": "d768064f2138ff4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Eloquent Javascript/Eloquent_JavaScript.pdf"
               }
             }
           }
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Books/Eloquent Javascript/Eloquent_JavaScript.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Books/Eloquent Javascript/Eloquent_JavaScript.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Books/Eloquent Javascript/Eloquent_JavaScript.pdf"
               }
             }
           }
@@ -164,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,38 +174,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a06e40e3ae4044f",
+  "active": "d768064f2138ff4b",
   "lastOpenFiles": [
-    "Books/Effective_Modern_C__.pdf",
-    "Books/Designing Data Intensive Applications/Designing_Data_Intensive_Applications (1).pdf",
-    "Books/Designing Data Intensive Applications",
-    "Books/Concurrency In Action/C_Concurrency_in_Action.pdf",
-    "Books/Concurrency In Action",
-    "Untitled.md",
-    "Books",
-    "Certtifications/Github Foundations/Notes/Gitksokdpaosdkpakds.md",
+    "Books/Eloquent Javascript/Eloquent_JavaScript.pdf",
+    "Books/Eloquent Javascript",
+    "Books/Head First Design Patterns/2nd Edition",
+    "Books/Head First Design Patterns/1st Editon",
+    "Books/Head First Design Patterns/1st Editon/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+    "Books/Head First Design Patterns/2nd Edition/[O`Reilly. Head First] - Head First Design Patterns 2nd Edition - [Freeman].pdf",
+    "Books/Head First Design Patterns",
+    "Certtifications/Github Foundations/Notes/Github Products Notes/GitHub Billing.md",
+    "Certtifications/Github Foundations/Notes/Github Products Notes/GitHub Mobile + GitHub Desktop.md",
+    "Certtifications/Github Foundations/Notes/Github Products Notes/Github Products Notes.md",
+    "Certtifications/Github Foundations/Notes/Basic Git Commands.md",
     "Certtifications/Github Foundations/Notes/GitHub Copilot.md",
+    "Certtifications/Github Foundations/Notes/Gitksokdpaosdkpakds.md",
+    "Certtifications/Github Foundations/Notes/Introduction to Git.md",
+    "Certtifications/Github Foundations/Notes/What is Github.md",
+    "Certtifications/Github Foundations/Notes/GitHub Collab.md",
+    "Certtifications/Github Foundations/Notes/Components of GitHub Flow.md",
+    "Books/Data Structures and Algorithms Made Easy",
+    "Books/Data Structures and Algorithms Made Easy/Data Structures and Algorithms - Narasimha Karumanchi.pdf",
+    "Data Stru.md",
+    "Books/Cracking the Coding Interview/Cracking the Coding Interview - 189 Programming Questions and Solutions (6th Edition).pdf",
+    "Books/Cracking the Coding Interview",
     "Certtifications/Data Manipulation with Python/Intro to Data Frames.md",
-    "Spaces",
-    "Packages/Spaces",
-    "Packages",
-    "New folder",
-    "Test",
     "Certification_Notes/Untitled.md",
     "Certification_Notes/Welcome.md",
-    "Certtifications/Github Foundations/Notes/What is Github.md",
-    "Certtifications/Github Foundations/Notes/Basic Git Commands.md",
-    "Certtifications/Github Foundations/Notes/GitHub Collab.md",
-    "Certtifications/Github Foundations/Notes/Introduction to Git.md",
     "Certtifications/Github Foundations/Images/Pasted image 20240417220618.png",
     "Certtifications/Github Foundations/Images/Pasted image 20240417220740.png",
-    "Certtifications/Github Foundations/Notes/Github Products Notes/GitHub Mobile + GitHub Desktop.md",
-    "Certtifications/Github Foundations/Notes/Github Products Notes/GitHub Billing.md",
     "Certtifications/Github Foundations/Notes/Github Products Notes/Accounts and Plans.md",
     "Certtifications/Data Manipulation with Python/Data Manipulation with Python.md",
     "Certtifications/Github Foundations/Data Manipulation With Python/Data Manipulation With Python.md",
-    "Certtifications/Github Foundations/Notes/Github Products Notes/Github Products Notes.md",
-    "Certtifications/Github Foundations/Notes/Components of GitHub Flow.md",
     "Certtifications/Github Foundations/Images/Pasted image 20240418180555.png",
     "Certtifications/Github Foundations/Images/Pasted image 20240418150412.png",
     "Pasted image 20240418180343.png",
